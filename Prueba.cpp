@@ -11,6 +11,7 @@ int main(){
 
 	//cout << "Introduzca el tamaño de la matriz" << endl;
 	//cin >> n;
+	//Primer comentario modificado con el codigo
 		
 	for(int i=1; i<3; i++){
 		for(int j=1; j<4; j++){
